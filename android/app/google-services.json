@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756944783679",
+    "project_id": "flip-3db25",
+    "storage_bucket": "flip-3db25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756944783679:android:cec8be731536280208ab8a",
+        "android_client_info": {
+          "package_name": "com.example.reds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756944783679-uqjcrqc8q3ub1ja1lf3r146j68i66kto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKezNhLB69jP0RGFCrDZ9ncuIRQqg5SBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756944783679-uqjcrqc8q3ub1ja1lf3r146j68i66kto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
